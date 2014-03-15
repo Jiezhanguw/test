@@ -1,4 +1,5 @@
 test
+Awesome!
 ====
 
-this is a test project
+this is a awesome test project
